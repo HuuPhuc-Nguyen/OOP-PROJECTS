@@ -1,0 +1,2 @@
+Lấy thời gian thực: https://www.codegrepper.com/code-examples/cpp/get+current+date+in+c%2B%2B
+Random số thực: https://stackoverflow.com/questions/686353/random-float-number-generation
