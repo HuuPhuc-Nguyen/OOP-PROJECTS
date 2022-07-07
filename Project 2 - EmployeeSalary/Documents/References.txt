@@ -1,0 +1,4 @@
+Ham sleep:
+https://stackoverflow.com/questions/2252372/how-do-you-make-a-program-sleep-in-c-on-win-32
+video tham khao:
+https://www.youtube.com/watch?v=ar7MpjcN3wI&list=PL4i-SHYT8i9Jn7mXTVtl5UcRBDz5MprUS&index=10&t=4419s

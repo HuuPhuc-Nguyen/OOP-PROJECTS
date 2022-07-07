@@ -1,0 +1,2 @@
+get current time: https://www.codegrepper.com/code-examples/cpp/get+current+date+in+c%2B%2B
+Random a float number: https://stackoverflow.com/questions/686353/random-float-number-generation
