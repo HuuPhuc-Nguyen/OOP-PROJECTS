@@ -9,13 +9,13 @@
 ## III. This program will 
 Display a menu with 3 functions:
 1. Do these things:
-    i. Ask user to input the filename.
-    ii. Read employees's information in that file. The information include:
-        - Employee's Full-name.
-        - Amount of Products.
-        - Payment for each Products.
-        - Coefficients salary.
-    iii. Print out all employees's information and the final paymant for each.
+i. Ask user to input the filename.
+ii. Read employees's information in that file. The information include:
+    - Employee's Full-name.
+    - Amount of Products.
+    - Payment for each Products.
+    - Coefficients salary.
+iii. Print out all employees's information and the final paymant for each.
 2. Allow user to create their own employees list then print out the list and final payment.
 3. Exit.
 ## IV. Special knowledge
