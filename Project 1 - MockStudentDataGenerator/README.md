@@ -25,4 +25,4 @@
 - Use *time.h* to get current time and date.
 - Generate a random float number with *rand()*.
 - Generate random Last-name according to [actual rate](https://vi.wikipedia.org/wiki/H%E1%BB%8D_ng%C6%B0%E1%BB%9Di_Vi%E1%BB%87t_Nam).
-22
+
