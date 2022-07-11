@@ -1,4 +1,4 @@
-# Project 1: Mock Student Data Generator
+# Mock Student Data Generator
 ## I. Project description:*[ here](https://tdquang7.notion.site/Project-Mock-data-generator-1-7c70a1a81b724049bd82ede839e2ff24)*
 ## II.How to run the program
 |To execute the program|To debug and view code|
