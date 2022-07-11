@@ -1,4 +1,4 @@
-# Project 2: Employee Salary
+# Employee Salary
 ## I. Project description:*[ here](https://tdquang7.notion.site/Project-Emloyee-payment-78ac0241bfea4e07b502020b0c20de86)*
 ## II.How to run the program
 |To execute the program|To debug and view code|
